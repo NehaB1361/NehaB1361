@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Neha Bitale
 
-<!--
-**NehaB1361/NehaB1361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Artificial Intelligence and Data Science student at MMCOE, Pune, with an interest in data analytics, machine learning, and software development.
 
-Here are some ideas to get you started:
+I enjoy working on practical problems that combine technology and real-world applications. Through my coursework and self-learning, I've been building my skills in programming, data analysis, data structures, and web development while exploring how AI can be used to create meaningful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+**B.E. in Artificial Intelligence & Data Science**  
+Marathwada Mitra Mandal's College of Engineering, Pune  
+2024 – 2028
+
+## Skills
+
+### Programming
+- Python
+- C++
+- SQL
+- Java (Basics)
+
+### Data & Analytics
+- Data Analysis
+- Data Cleaning
+- Basic Statistics
+- Data Visualization
+
+### Tools & Technologies
+- Pandas
+- Scikit-learn
+- Power BI
+- Flask
+- SQLite
+- MongoDB
+- REST APIs
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+
+### Core Concepts
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Problem Solving
+
+## Currently Learning
+
+- Machine Learning
+- Generative AI
+- MongoDB
+- MERN Stack Development
+- Advanced Data Structures & Algorithms
+
+## Connect
+
+📧 bitaleneha@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/neha-bitale-916153354
+
+📍 Pune, Maharashtra, India
+
+---
+
+I enjoy learning new technologies, improving my problem-solving skills, and building solutions that create real value. I'm always open to opportunities that help me grow as a developer and data science professional.
