@@ -20,4 +20,4 @@ I enjoy working with data, building software, and exploring how AI can be applie
 ## Connect
 📧 bitaleneha@gmail.com
 
-💼 LinkedIn: linkedin.com/in/neha-bitale-916153354
+💼 LinkedIn: www.linkedin.com/in/neha-bitale-916153354
