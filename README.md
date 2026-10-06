@@ -1,23 +1,47 @@
-# Hi, I'm Neha Bitale 👋
+<h3 align="center">Neha Bitale</h3>
+<p align="center">
+  AI & Data Science Student · Developer
+</p>
 
-Artificial Intelligence & Data Science student at MMCOE, Pune.
+<p align="center">
+  📍 Pune, India &nbsp;•&nbsp; 🎓 MMCOE
+</p>
 
-I enjoy working with data, building software, and exploring how AI can be applied to solve real-world problems. Currently focused on strengthening my skills in Data Structures & Algorithms, Machine Learning, and Full-Stack Development.
+<p align="center">
+  &nbsp;•&nbsp;
+  <a href="mailto:bitaleneha@gmail.com">Email</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/neha-bitale-916153354/">LinkedIn</a>
+  &nbsp;•&nbsp;
+   <a href="https://github.com/NehaB1361](https://github.com/NehaRBitale">GitHub</a>
+</p>
 
-## Tech Stack
-- Python • C++ • SQL • Java
-- MongoDB • SQLite
-- Flask • REST APIs
-- HTML • CSS • JavaScript
-- Pandas • Scikit-learn • Power BI
+---
 
-## Currently Learning
-- Machine Learning
-- Generative AI
-- MERN Stack
-- Advanced DSA
+### 🛠️ Technologies
 
-## Connect
-📧 bitaleneha@gmail.com
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,flask,html,css,js,git,github" />
+</p>
 
-💼 LinkedIn: www.linkedin.com/in/neha-bitale-916153354
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,sklearn" />
+  &nbsp;&nbsp;
+
+</p>
+
+### 🎯 Focus
+
+<p align="center">
+  🧠 DSA &nbsp;•&nbsp;
+  📊 Data Science &nbsp;•&nbsp;
+  🤖 Machine Learning &nbsp;•&nbsp;
+  ✨ Generative AI &nbsp;•&nbsp;
+  🌐 Full-Stack
+</p>
+
+---
+
+<p align="center">
+  <sub>Build · Learn · Improve</sub>
+</p>
